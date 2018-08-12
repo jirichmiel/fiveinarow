@@ -1,0 +1,76 @@
+#fives #menu ul.mdl-list {
+  width: 480px;
+  margin: 40px auto 0;
+}
+
+#fives #menu .mdl-list__item-primary-content label {
+  display: block;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+
+#fives #menu div.textbox {
+  position: relative;
+  top: 12px;
+}
+
+#fives #menu .mdl-list__item:first-child {
+  border-width: 1px;
+}
+
+#fives #menu .mdl-list__item {
+  border-color: rgba(0,0,0,0.26);
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+}
+
+#fives #menu .mdl-textfield__input {
+  border-bottom: 0px;
+}
+
+#fives #menu .mdl-button {
+  margin: 0 auto;
+  width: 80%;
+}
+
+#fives #game .mdl-button.mdl-button--colored {
+  min-width: 36px;
+  padding: 0 9px;
+}
+
+#fives #game .mdl-cell--8-col.mdl-cell {
+  width: auto;
+  margin: 0px 100px;
+}
+
+#fives #game .mdl-cell--1-col.mdl-cell {
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#fives #game .mdl-grid {
+  justify-content: center;
+}
+
+#fives #game > div:first-child {
+  border-color: rgba(0,0,0,0.26);
+  border-width: 1px;
+  border-style: solid;
+  padding: 15px;
+  margin-bottom: 40px;
+}
+
+#fives #game .mdl-cell--1-col .material-icons {
+  font-size: 32px !important;
+  border-radius: 10px;
+}
+
+#fives #game .status {
+  padding: 15px;
+}
+
+#fives #game .sentiment_very_satisfied {
+  background-color: rgba(255,255,0,0.75);
+  border-radius: 15px;
+}
